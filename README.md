@@ -1,7 +1,7 @@
 ## Hi there, I'm Ishaan Sharma ✨
 
 I'm a **Full Stack Web Developer** specializing in the **MERN Stack** with additional skills in:
-- 🔥 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap
+- 🔥 **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS, Bootstrap, ejs , hbs
 - ⚡ **Backend:** Node.js, Express.js, MongoDB, Mongoose, MySQL
 - 🛠️ **Tools:** Git, GitHub, NPM Packages
 
